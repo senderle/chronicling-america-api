@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Local project settings
+
+first_page.pdf
+first_page.txt
